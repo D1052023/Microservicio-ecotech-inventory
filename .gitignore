@@ -1,0 +1,11 @@
+# Entornos
+.env
+.env.local
+
+# Dependencias (si aplica)
+node_modules/
+
+# Archivos de sistema y editores
+.DS_Store
+.vscode/
+*.log
